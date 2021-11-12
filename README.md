@@ -15,9 +15,9 @@ Each repo in argoproj-labs should contain:
 
 ## Contributing to Argo
 
-Read and abide by the [Argo Code of Conduct](https://github.com/argoproj/argo/blob/master/CODE_OF_CONDUCT.md).
+Read and abide by the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
 
-Contributors will be asked to read and sign a [CLA](https://github.com/argoproj/argo/blob/master/community/Argo%20Individual%20CLA.pdf). This agreement gives us permission to use and redistribute your contributions as part of the Argo Project and protects the users and contributors of the project.
+Contributors will be asked to read and sign a [CLA](https://github.com/argoproj/argoproj/blob/master/community/Argo%20Individual%20CLA.pdf). This agreement gives us permission to use and redistribute your contributions as part of the Argo Project and protects the users and contributors of the project.
 
 **Please open an issue on this repo if you have a project that you would like to contribute to argoproj-labs.**
 
